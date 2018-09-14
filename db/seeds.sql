@@ -1,0 +1,1 @@
+INSERT INTO hamburgers (hamburger_name, devour) VALUES ('Cheeseburger', true);
